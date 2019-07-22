@@ -1,5 +1,12 @@
 file1
+<<<<<<< HEAD
 add some thing
 
 
 in master branch add some content
+=======
+add some thing 
+
+in testing branch modify file1.txt content
+add an apple
+>>>>>>> testing
